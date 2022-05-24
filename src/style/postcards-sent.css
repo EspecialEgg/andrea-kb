@@ -1,0 +1,24 @@
+.sent-title {
+  margin-top: 150px;
+  color: rgb(51, 51, 51);
+}
+
+.postcard-title {
+  width: 300px;
+  height: auto;
+  color: rgb(177, 67, 67);
+  border: 1px solid white;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 15px;
+  justify-content: center;
+  font-weight: 300;
+  background-color: rgb(245, 233, 235);
+  font-family: "Roboto";
+}
+
+.sent-data {
+  display: flex;
+  flex-wrap: wrap;
+  grid-gap: 10px;
+}
